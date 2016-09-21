@@ -2,7 +2,6 @@ Emails Laravel 5
 ============
 
 ## General
-------------
 
 ### Requerimientos
 
@@ -14,11 +13,10 @@ Extensiónes obligatorias
 
 Este paquete extiende de la siguiente librería
 
-    # "php-imap/php-imap": "~2.0"
+    
 
 
 ## Documentacion
-------------
 
 - [Instalacion](#instalacion)
 - [Configuracion](#configuracion)
@@ -26,4 +24,3 @@ Este paquete extiende de la siguiente librería
 - [Instalacion manual](#instalacion-manual)
 
 ## Solución de problemas
-------------
