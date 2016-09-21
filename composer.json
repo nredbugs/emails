@@ -1,0 +1,13 @@
+{
+    "name": "nredbugs/emails",
+    "description": "Libreria para la lectura y procesamiento de mensajes de un correo electronico",
+    "type": "package",
+    "authors": [
+        {
+            "name": "Hugo Chanocua",
+            "email": "hugo.chanocua@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
